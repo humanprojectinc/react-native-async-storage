@@ -120,5 +120,5 @@ dependencies {
         testImplementation project.ext.AsyncStorageLibs.testTruth
     }
 
-    implementation 'com.facebook.react:react-native:+' // from node_modules
+    implementation 'com.facebook.react:react-android:+' // from node_modules
 }
